@@ -37,3 +37,4 @@ services:
       - DRONE_SERVER=drone-server:9000
       - DRONE_SECRET=ALQU2M0KdptXUdTPKcEw
       - DRONE_DEBUG=true
+      
